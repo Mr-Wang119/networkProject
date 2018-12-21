@@ -1,6 +1,6 @@
 # networkProject
 2016 networkProject
-Linux:（较为便捷）
+Linux:
         在根目录下运行打包好的文件app，在终端输入“dist/app”，并按照终端提示打开相应网页进行操作。
 
 Windows:
